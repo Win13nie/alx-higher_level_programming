@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#checks itf its upper
 
 def uppercase(str):
     for i in range(len(str)):

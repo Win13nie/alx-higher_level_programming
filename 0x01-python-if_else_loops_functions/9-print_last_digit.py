@@ -1,5 +1,4 @@
 #!/usr/bin/python
-#return the last digit
 
 def print_last_digit(number):
     if number >= 0:
